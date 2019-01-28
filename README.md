@@ -8,7 +8,7 @@
 5. All needed dependencies will be installed
 
 6. Create a new file "puppeteer-test.js"
-7. Isert the content from this repo "puppeteer-test.js"
+7. Insert the content from this repo "puppeteer-test.js"
 8. Save file and close
 9. Run the puppeteer script by typing "node puppeteer-test.js"
 10. you should see following logs:
@@ -22,5 +22,5 @@ Browser closed<br>
 
 <h2>Great examples and tutorials:</h2>
 
-Simple scraping example: https://dev.to/napolux/how-to-scrap-that-web-page-with-nodejs-and-puppeteer-811
+Simple scraping example: https://dev.to/napolux/how-to-scrap-that-web-page-with-nodejs-and-puppeteer-811<br>
 Puppeteer documentation: https://github.com/GoogleChrome/puppeteer
