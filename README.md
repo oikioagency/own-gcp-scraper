@@ -19,3 +19,8 @@ Browser closed<br>
   
 11. The Puppeteer configuration is now working in Google Compute Engine Virtual Machine
 12. Be creative
+
+<h2>Great examples and tutorials:</h2>
+
+Simple scraping example: https://dev.to/napolux/how-to-scrap-that-web-page-with-nodejs-and-puppeteer-811
+Puppeteer documentation: https://github.com/GoogleChrome/puppeteer
