@@ -1,5 +1,5 @@
 # own-gcp-scraper
-Setup Google Compute Engine virtual machine ready for Puppeteer.
+<h1>Setup Google Compute Engine virtual machine ready for Puppeteer.</h1>
 
 1. Create a new virtual machine instance in Google https://console.cloud.google.com/compute/instances
 2. Open the SSH connection to the virtual machine
@@ -12,10 +12,10 @@ Setup Google Compute Engine virtual machine ready for Puppeteer.
 8. Save file and close
 9. Run the puppeteer script by typing "node puppeteer-test.js"
 10. you should see following logs:
-  
-  Browser created
-  Page opened
-  Browser closed
+
+Browser created <br>
+Page opened<br>
+Browser closed<br>
   
 11. The Puppeteer configuration is now working in Google Compute Engine Virtual Machine
 12. Be creative
