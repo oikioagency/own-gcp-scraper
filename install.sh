@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 
+sudo apt-get update
+
 sudo apt-get install -y libatk1.0-0 \
+mysql-client \
 libatk-bridge2.0-0 \
 libc6 \
 libcairo2 \
